@@ -17,7 +17,7 @@ public class TimeScalerInGame : MonoBehaviour
     {
         if(activate)
         {
-            ScaleTime();
+            ScaleTime(); // scale time 
             activate = false;
         }
     }
